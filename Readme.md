@@ -23,7 +23,7 @@ RFC based standard features aligning with the latest norms and practices for bui
  
 ---
 
-##  Project Structure
+##  Project File Structure
 
 <details>
 <summary>📁 Click to expand</summary>
