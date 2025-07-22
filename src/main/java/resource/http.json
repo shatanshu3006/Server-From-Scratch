@@ -1,0 +1,26 @@
+{
+  "port": 8081,
+  "webroot": "WebRoot",
+  "defaultPage": "index.html",
+  "logLevel": "",
+  "threadingModel": "",
+  "threadPoolSize": 10,
+  "mimeTypes": {
+    ".html": "text/html",
+    ".css": "text/css",
+    ".js": "application/javascript",
+    ".png": "image/png",
+    ".jpg": "image/jpeg",
+    ".ico": "image/x-ico",
+    ".json": "application/json",
+    ".txt": "text/plain"
+  },
+  "routes": {
+    "/api/health": "",
+    "/api/data": ""
+  },
+  "errorPages": {
+    "404": "",
+    "500": ""
+  }
+}
