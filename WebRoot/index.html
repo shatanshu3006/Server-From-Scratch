@@ -4,6 +4,22 @@
     <style>
         body {
             text-align: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        .image-container {
+            position: relative;
+            display: inline-block;
+        }
+        .author-label {
+            position: absolute;
+            bottom: 0;
+            right: -250;
+            background: rgba(255, 255, 255, 0.8);
+            font-size: 16px;
+            padding: 4px 8px;
+            border-radius: 4px;
         }
     </style>
 </head>
@@ -13,5 +29,8 @@
 <h2>This page was delivered using our own made Https Server made in Java.</h2>
 <br>
 <br>
-<img src='logo.png'/>
+<div class="image-container">
+    <img src='logo.png' width="450" height="450"/>
+    <h1 class="author-label">Made by: Shatanshu Bodkhe</h1>
+</div>
 </html>
