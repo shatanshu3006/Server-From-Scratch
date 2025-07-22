@@ -5,6 +5,24 @@ RFC based standard features aligning with the latest norms and practices for bui
 
 ---
 
+## ⚙ Features
+
+- ✔️ Custom HTTP parser (scannerless)
+- ✔️ Multi-threaded socket handling
+- ✔️ Static file serving from `WebRoot/`
+- ✔️ MIME type detection
+- ✔️ JSON-based server configuration
+- ✔️ Custom HTTP error handling
+- ✔️ JUnit 5 test coverage for parsing, MIME, and routing
+
+---
+
+##  Request Lifecycle
+<img width="2792" height="1392" alt="image" src="https://github.com/user-attachments/assets/94567281-c0e0-403a-ab59-3186d9a81be3" />
+
+ 
+---
+
 ##  Project Structure
 
 <details>
@@ -61,19 +79,6 @@ RFC based standard features aligning with the latest norms and practices for bui
 
 ---
 
-## ⚙ Features
 
-- ✔️ Custom HTTP parser (scannerless)
-- ✔️ Multi-threaded socket handling
-- ✔️ Static file serving from `WebRoot/`
-- ✔️ MIME type detection
-- ✔️ JSON-based server configuration
-- ✔️ Custom HTTP error handling
-- ✔️ JUnit 5 test coverage for parsing, MIME, and routing
-
----
-
-##  Request Lifecycle
- incoming ...
 
 
