@@ -28,6 +28,9 @@ RFC based standard features aligning with the latest norms and practices for bui
 
 ##  Project File Structure
 
+<img width="5352" height="1164" alt="image" src="https://github.com/user-attachments/assets/5efc4fb3-1e0b-4a1e-97cc-bd57e412193c" />
+
+
 <details>
 <summary>📁 Click to expand</summary>
 
