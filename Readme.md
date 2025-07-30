@@ -1,4 +1,4 @@
-#  Simple Java HTTP Server
+#  Pingy : Simple Java HTTP Server
 
 A custom-built, lightweight HTTP server written from scratch in Java to explore sockets, threads, HTTP request parsing, and static file serving — **no frameworks used**.
 RFC based standard features aligning with the latest norms and practices for building HTTP Servers.
