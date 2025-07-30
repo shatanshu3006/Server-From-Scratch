@@ -10,13 +10,13 @@ RFC based standard features aligning with the latest norms and practices for bui
 
 ## ⚙ Features
 
-- ✔️ Custom HTTP parser (scannerless)
-- ✔️ Multi-threaded socket handling
-- ✔️ Static file serving from `WebRoot/`
-- ✔️ MIME type detection
-- ✔️ JSON-based server configuration
-- ✔️ Custom HTTP error handling
-- ✔️ JUnit 5 test coverage for parsing, MIME, and routing
+- Custom HTTP parser (scannerless)
+- Multi-threaded socket handling
+- Static file serving from `WebRoot/`
+- MIME type detection
+- JSON-based server configuration
+- Custom HTTP error handling
+- JUnit 5 test coverage for parsing, MIME, and routing
 
 ---
 
