@@ -3,6 +3,9 @@
 A custom-built, lightweight HTTP server written from scratch in Java to explore sockets, threads, HTTP request parsing, and static file serving — **no frameworks used**.
 RFC based standard features aligning with the latest norms and practices for building HTTP Servers.
 
+<img width="944" height="734" alt="image" src="https://github.com/user-attachments/assets/6bac722f-f62b-44a7-9232-92822919fc30" />
+
+
 ---
 
 ## ⚙ Features
